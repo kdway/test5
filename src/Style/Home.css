@@ -1,0 +1,84 @@
+.card{
+    margin-left: 30px;
+    margin-top: 20px;
+    width: 22rem;
+}
+.card img{
+    height: 320px;
+    width: 350px;
+    margin-top: -10px;
+    
+}
+.card p{
+    text-align: center;
+}
+.shadow0{
+    margin: 10rem 10rem 1rem 10rem;
+    border-radius: 2rem;
+}
+.css{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    margin-left: 100px;
+    margin: 30px;
+    height: 120px;
+    width: 200px;
+    border-radius: 7px;
+}
+.l {
+    text-decoration-style: none;
+    background-color: rgb(59, 90, 226);
+   
+}
+.m{
+    height: 5rem;
+    width: 12rem;
+    
+}
+.try{
+    background-color: rgb(255, 255, 255);
+  
+    width: 10rem;
+    margin-left: 4.2rem;
+    margin-top: 7rem;
+    height: 400px;
+    width: 400px;
+
+}
+.bg{
+    display: flex;
+    margin-left: 12em;
+    border-radius: 1.4rem;
+}
+.container1{
+    margin-top: 150px;
+}
+.robotics{
+    margin-top: 2.2rem;
+    margin-left: 10rem;
+    border-radius: 0.5rem;
+    background-color: rgb(255, 255, 255);
+    width: 7.5rem;
+}
+.contain{
+    margin-left: 15rem;
+    margin-right: 17rem;
+    margin-bottom: 15rem;
+    margin-top: 7rem;
+}
+.but{
+    width: 15rem;
+    margin-top: 5rem;
+    margin-left: 17rem;
+    border-radius: 0.7rem;
+    background-color: rgb(121, 213, 216);
+}
+.welcome{
+    margin-left: 11rem;
+}
+.container{
+    display:flex;
+    flex-direction: column;
+    justify-content: space-around;
+}

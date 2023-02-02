@@ -1,0 +1,15 @@
+.anatomie img{
+    margin-left: 20rem;
+    margin-top: 5rem;
+}
+H2{
+    color: rgb(218, 19, 52);
+    margin-top: 15rem;
+}
+button{
+    margin-left: 10rem;
+    height: 3rem;
+    width: 5rem;
+    border-radius: 0.8rem;
+    background-color: rgb(218, 19, 52);
+}
